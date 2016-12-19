@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kimkwanka.github.io
+title: KimKwanka.com
+email: kimkwanka@gmail.com
+author: Kim Kwanka
+description: Kim Kwanka's Blog
+paginate: 3
+google_analytics: 
